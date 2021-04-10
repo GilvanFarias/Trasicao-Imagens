@@ -27,4 +27,4 @@ function start(){
   }, time)
 }
 
-    window.addEventListener("load", start)
+    window.addEventListener("load", start) //Qando a janela(window) for totalmente carregada irá executar a função start
